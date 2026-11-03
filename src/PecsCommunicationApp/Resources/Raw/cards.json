@@ -1,0 +1,12 @@
+[
+  { "Id": "water", "LabelEn": "Water", "LabelRu": "Вода", "CategoryId": "drinks", "Symbol": "🥤", "IsEnabled": true, "SortOrder": 0 },
+  { "Id": "food", "LabelEn": "Food", "LabelRu": "Еда", "CategoryId": "food", "Symbol": "🍽️", "IsEnabled": true, "SortOrder": 1 },
+  { "Id": "apple", "LabelEn": "Apple", "LabelRu": "Яблоко", "CategoryId": "food", "Symbol": "🍎", "IsEnabled": true, "SortOrder": 2 },
+  { "Id": "toilet", "LabelEn": "Toilet", "LabelRu": "Туалет", "CategoryId": "needs", "Symbol": "🚻", "IsEnabled": true, "SortOrder": 3 },
+  { "Id": "help", "LabelEn": "Help", "LabelRu": "Помоги", "CategoryId": "needs", "Symbol": "🖐️", "IsEnabled": true, "SortOrder": 4 },
+  { "Id": "more", "LabelEn": "More", "LabelRu": "Ещё", "CategoryId": "needs", "Symbol": "➕", "IsEnabled": true, "SortOrder": 5 },
+  { "Id": "stop", "LabelEn": "Stop", "LabelRu": "Стоп", "CategoryId": "needs", "Symbol": "🛑", "IsEnabled": true, "SortOrder": 6 },
+  { "Id": "play", "LabelEn": "Play", "LabelRu": "Играть", "CategoryId": "activities", "Symbol": "🧸", "IsEnabled": true, "SortOrder": 7 },
+  { "Id": "break", "LabelEn": "Break", "LabelRu": "Перерыв", "CategoryId": "activities", "Symbol": "☕", "IsEnabled": true, "SortOrder": 8 },
+  { "Id": "finished", "LabelEn": "Finished", "LabelRu": "Готово", "CategoryId": "needs", "Symbol": "✅", "IsEnabled": true, "SortOrder": 9 }
+]
